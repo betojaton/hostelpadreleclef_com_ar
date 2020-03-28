@@ -1,0 +1,8721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"bo",
+				"border-top \tBootstrap 4.4"
+			],
+			[
+				"bord",
+				"border-primary \tBootstrap 4.4"
+			],
+			[
+				"tex",
+				"text-secondary \tBootstrap 4 Class"
+			],
+			[
+				"po",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"bor",
+				"border-dark \tBootstrap 4.4"
+			],
+			[
+				"te",
+				"text-justify \tBootstrap 4 Class"
+			],
+			[
+				"row",
+				"flex-row \tBootstrap 4 Class"
+			],
+			[
+				"ju",
+				"justify-content-around \tBootstrap 4 Class"
+			],
+			[
+				"img",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"mb",
+				"mb-md-5 \tBootstrap 4 Class"
+			],
+			[
+				"fl",
+				"float-right \tBootstrap 4 Class"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"text",
+				"text-secondary \tBootstrap 4 Class"
+			],
+			[
+				"bs",
+				"bds-s\tborder-style: solid;"
+			],
+			[
+				"pb-md-",
+				"pb-md-3 \tBootstrap 4 Class"
+			],
+			[
+				"flo",
+				"float-md-right \tBootstrap 4 Class"
+			],
+			[
+				"w-",
+				"w-75 \tBootstrap 4 Class"
+			],
+			[
+				"roun",
+				"rounded \tBootstrap 4.4"
+			],
+			[
+				"comm-",
+				"comm-html\tComment - HTML comment"
+			],
+			[
+				"o",
+				"ovx\toverflow-x: ${1:hidden};"
+			],
+			[
+				"fa",
+				"fachada01.jpg\tw:1200 h:900"
+			],
+			[
+				"pt-",
+				"pt-3 \tBootstrap 4 Class"
+			],
+			[
+				"p-s",
+				"p-sm-2 \tBootstrap 4 Class"
+			],
+			[
+				"rounde",
+				"rounded \tBootstrap 4.4"
+			],
+			[
+				"base",
+				"align-items-baseline \tBootstrap 4 Class"
+			],
+			[
+				"rou",
+				"rounded \tBootstrap 4.4"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"h",
+				"vh-100 \tBootstrap 4.4"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"bg",
+				"background-image\tproperty"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"bg-w",
+				"bg-white \tBootstrap 4 Class"
+			],
+			[
+				"hi",
+				"hidden-sm \tBootstrap 3 Class"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"text-sm",
+				"text-sm-left \tBootstrap 4 Class"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"med",
+				"media smartphone\tsmartphone"
+			],
+			[
+				"r",
+				"right\ttext-align"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"over",
+				"overflow-auto \tBootstrap 4.4"
+			],
+			[
+				"bdr",
+				"bdrs\tborder-radius"
+			],
+			[
+				"btn-s",
+				"btn-sm \tBootstrap 4.4"
+			],
+			[
+				"foto",
+				"foto-comedor-01.jpg\tw:1280 h:853"
+			],
+			[
+				"img-",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 4 Class"
+			],
+			[
+				"text-md",
+				"text-md-right \tBootstrap 4 Class"
+			],
+			[
+				"ali",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"positi",
+				"position-relative \tBootstrap 4.4"
+			],
+			[
+				"pos",
+				"position-fixed \tBootstrap 4.4"
+			],
+			[
+				"align-",
+				"align-middle \tBootstrap 4 Class"
+			],
+			[
+				"bg-s",
+				"bg-secondary \tBootstrap 4 Class"
+			],
+			[
+				"alg",
+				"align-items-lg-end \tBootstrap 4 Class"
+			],
+			[
+				"ita",
+				"font-italic \tBootstrap 4 Class"
+			],
+			[
+				"top",
+				"top-left \tBootstrap 3 Class"
+			],
+			[
+				"lead",
+				"lead \tBootstrap 4 Class"
+			],
+			[
+				"dis",
+				"display-3 \tBootstrap 4.4"
+			],
+			[
+				"fade",
+				"carousel-fade \tBootstrap 4.4"
+			],
+			[
+				"pb-",
+				"pb-3 \tBootstrap 4 Class"
+			],
+			[
+				"ri",
+				"text-right \tBootstrap 3 Class"
+			],
+			[
+				"end",
+				"align-content-end \tBootstrap 4 Class"
+			],
+			[
+				"sh",
+				"shadow \tBootstrap 4.4"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"b",
+				"background-image\tproperty"
+			],
+			[
+				"text-d",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"mb-",
+				"mb-md-3 \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"align-items-start \tBootstrap 4 Class"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"ptm",
+				"pt-md-5 \tBootstrap 4 Class"
+			],
+			[
+				"disa",
+				"disabled \tBootstrap 4 Class"
+			],
+			[
+				"text-w",
+				"text-white \tBootstrap 4.4"
+			],
+			[
+				"text-",
+				"text-muted \tBootstrap 4 Class"
+			],
+			[
+				"circle",
+				"rounded-circle \tBootstrap 4 Class"
+			],
+			[
+				"bw",
+				"bdw\tborder-width"
+			],
+			[
+				"bore",
+				"border \tBootstrap 4.4"
+			],
+			[
+				"ro",
+				"rounded-circle \tBootstrap 4 Class"
+			],
+			[
+				"l",
+				"lead \tBootstrap 4 Class"
+			],
+			[
+				"bg-",
+				"bg-primary \tBootstrap 3 Class"
+			],
+			[
+				"im",
+				"imgholder.ru/300"
+			],
+			[
+				"card-im",
+				"card-img-top \tBootstrap 4 Class"
+			],
+			[
+				"px-md",
+				"px-md-5 \tBootstrap 4 Class"
+			],
+			[
+				"pl-md",
+				"pl-md-5 \tBootstrap 4 Class"
+			],
+			[
+				"jsu",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"d-",
+				"d-md-flex \tBootstrap 4 Class"
+			],
+			[
+				"sma",
+				"small \tBootstrap 4 Class"
+			],
+			[
+				"mr",
+				"mr-1 \tBootstrap 4 Class"
+			],
+			[
+				"selec",
+				"selected\tAttr"
+			],
+			[
+				"sele",
+				"selected\tAttr"
+			],
+			[
+				"fon",
+				"font-weight-bolder \tBootstrap 4.4"
+			],
+			[
+				"center",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"round",
+				"rounded-right \tBootstrap 4 Class"
+			],
+			[
+				"w",
+				"w-75 \tBootstrap 4 Class"
+			],
+			[
+				"mx-m",
+				"mx-md-3 \tBootstrap 4 Class"
+			],
+			[
+				"mt-md-",
+				"mt-md-3 \tBootstrap 4 Class"
+			],
+			[
+				"z-",
+				"z-index\tproperty"
+			],
+			[
+				"mt-m",
+				"mt-md-3 \tBootstrap 4.4"
+			],
+			[
+				"pr-m",
+				"pr-md-5 \tBootstrap 4 Class"
+			],
+			[
+				"off",
+				"offset-1 \tBootstrap 4 Class"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transform-style\tproperty"
+			],
+			[
+				"bg-dar",
+				"bg-secondary \tBootstrap 4 Class"
+			],
+			[
+				"h-",
+				"h-25 \tBootstrap 4.4"
+			],
+			[
+				"di",
+				"display-1 \tBootstrap 4.4"
+			],
+			[
+				"pa",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"nav",
+				"nav-link \tBootstrap 4 Class"
+			],
+			[
+				"add_",
+				"add_filter"
+			],
+			[
+				"i",
+				"imgholder.ru/300"
+			],
+			[
+				"btn-prima",
+				"btn-primary \tBootstrap 4 Class"
+			],
+			[
+				"d",
+				"d-flex \tBootstrap 4 Class"
+			],
+			[
+				"alig",
+				"align-middle \tBootstrap 4 Class"
+			],
+			[
+				"bg-d",
+				"bg-dark \tBootstrap 4 Class"
+			],
+			[
+				"conat",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"comm",
+				"comm\tComment - Single-line block comment"
+			],
+			[
+				"re",
+				"rel\tAttr"
+			],
+			[
+				"bt",
+				"btn-dark \tBootstrap 4 Class"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"gr",
+				"grid-column\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"add_t",
+				"add_theme_support"
+			],
+			[
+				"title",
+				"title\tAttr"
+			],
+			[
+				"res",
+				"embed-responsive \tBootstrap 4 Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html/index.html",
+			"settings":
+			{
+				"buffer_size": 243242,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/CLIENTES/RAUL GARCIA/ID/colores/TD-palette.css",
+			"settings":
+			{
+				"buffer_size": 739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "html/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 3751,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/scss/custom.scss",
+			"settings":
+			{
+				"buffer_size": 7334,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/bootstrap/scss/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 47816,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: input-e",
+				"Snippet: input - email"
+			],
+			[
+				"Snippet: carousel",
+				"Snippet: Carousel"
+			],
+			[
+				"Snippet: butt",
+				"Snippet: button"
+			],
+			[
+				"Snippet: carou",
+				"Snippet: Carousel"
+			],
+			[
+				"Snippet: carouse",
+				"Snippet: carousel"
+			],
+			[
+				"Snippet: list",
+				"Snippet: list-unstyled"
+			],
+			[
+				"Snippet: form",
+				"Snippet: Form"
+			],
+			[
+				"Snippet: select",
+				"Snippet: <select>"
+			],
+			[
+				"Snippet: sea",
+				"Snippet: input - search"
+			],
+			[
+				"Snippet: nav",
+				"Snippet: nav"
+			],
+			[
+				"Snippet: navb",
+				"Snippet: navbars"
+			],
+			[
+				"Snippet: btn",
+				"Snippet: Button"
+			],
+			[
+				"Snippet: bu",
+				"Snippet: Button"
+			],
+			[
+				"Snippet: jum",
+				"Snippet: narrow_jumbotron"
+			],
+			[
+				"Snippet: um",
+				"Snippet: jumbotron"
+			],
+			[
+				"Snippet: card",
+				"Snippet: Card"
+			],
+			[
+				"Snippet: n",
+				"Snippet: navbar"
+			],
+			[
+				"Snippet: conta",
+				"Snippet: container_fluid"
+			],
+			[
+				"Snippet: im",
+				"Snippet: ImgHolder image add"
+			],
+			[
+				"Snippet: car",
+				"Snippet: cards"
+			],
+			[
+				"Snippet: na",
+				"Snippet: navbars"
+			],
+			[
+				"Snippet: NAVB",
+				"Snippet: navbar"
+			],
+			[
+				"Snippet: navba",
+				"Snippet: navbars"
+			],
+			[
+				"Snippet: table",
+				"Snippet: bs3-table-bordered"
+			],
+			[
+				"Snippet: bs3-ca",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"Snippet: bs3-j",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"Snippet: nab",
+				"Snippet: bs3-navbar-brand"
+			],
+			[
+				"Package Control: de",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: hol",
+				"Snippet: ImgHolder image add"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: foo",
+				"Snippet: bs3-panel-footer"
+			],
+			[
+				"Snippet: img",
+				"Snippet: bs3-image"
+			],
+			[
+				"Snippet: thu",
+				"Snippet: bs3-thumbnail-content"
+			],
+			[
+				"Snippet: h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: ta",
+				"Snippet: bs3-tabs"
+			],
+			[
+				"Snippet: tab",
+				"Snippet: bs3-tabs"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:  re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: gly",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: ico",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"Snippet: thum",
+				"Snippet: bs3-thumbnail-content"
+			],
+			[
+				"Snippet: th",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"Snippet: pla",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"Snippet: html",
+				"Snippet: bs3-html5-template"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 310.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/bootstrap",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/bootstrap/scss",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/css",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/js",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/padreleclef2020"
+	],
+	"file_history":
+	[
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/home.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/header.tpl",
+		"/D/CLIENTES/RAUL GARCIA/ID/TD-palette.css",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/css/ken-burns.css",
+		"/D/recursos-maquetado/jQuery/INTERFACE/_PARALLAX/parallax-stellar/index.html",
+		"/D/recursos-maquetado/jQuery/INTERFACE/_PARALLAX/parallax-stellar/style.css",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/css/custom.css",
+		"/D/CLIENTES/PLECLEF/recuperado/index.html",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/scss/custom.scss",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/css/ken-burns.min.css",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/hostelpadreleclef/front-page.php",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/style.css",
+		"/C/xampp/htdocs/hostelpadreleclef_com_ar/html/index.html",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/style.min.css",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/style.css",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/index.html",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/js/scripts.js",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/scss/custom.scss",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/bootstrap/scss/_variables.scss",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar-old/reservas.php",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/css/ken-burns.css",
+		"/C/Users/betoj/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/html/index.html",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/html/style.scss",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/html/prepros-6.config",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/html/style.css",
+		"/D/CLIENTES/GGDG/mylittlebuenosaires/mylittlebsas/index.php",
+		"/D/CLIENTES/GGDG/mylittlebuenosaires/mylittlebsas/footer.php",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/img/bn_booking.png",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/01.Sitio web - Blog del viajero/index.html",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/01.Sitio web - Blog del viajero/css/style.css",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/img/pleclef/PLECLEF-SVG-Sprites-Demo.html",
+		"/D/recursos-maquetado/jQuery/2020/imagen/jQuery-Extension-To-Add-Ken-Burns-Effect-To-Bootstrap-Carousel/js/custom.js",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/css/ken-burns.beautified.css",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/css/ken-burns.min.css",
+		"/D/recursos-maquetado/jQuery/2020/imagen/jQuery-Extension-To-Add-Ken-Burns-Effect-To-Bootstrap-Carousel/index.html",
+		"/D/recursos-maquetado/CSS/hero-image-html-master/style.css",
+		"/D/recursos-maquetado/CSS/hero-image-html-master/index.html",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/css/theme.beautified.css",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/html/index.html",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/css/theme.css",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/js/script.js",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/style.css",
+		"/D/recursos-maquetado/jQuery/INTERFACE/_SCROLL/vanillajs-scrollspy-master/examples/index.html",
+		"/D/recursos-maquetado/jQuery/INTERFACE/_SCROLL/smooth-scroll-master/speed.html",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/img/my-icons-collection/PLECLEF-SVG-sprite.svg",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/img/my-icons-collection/My icons collection-SVG-Sprites-Demo.html",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/img/my-icons-collection/My icons collection-SVG-sprite.svg",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar-old/index.php",
+		"/D/recursos-maquetado/jQuery/IMAGEN/_SLIDER/codaslider/css/coda-slider.css",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/js/scripts.min.js",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/css/custom.css",
+		"/D/CLIENTES/PLECLEF/hostelpadreleclef_com_ar/index.min.html",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/css/theme.scss",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/inc/header.php",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/functions.php",
+		"/C/xampp/htdocs/perfilconstrucciones_com/wp-content/themes/twentynineteen/functions.php",
+		"/C/xampp/htdocs/perfilconstrucciones_com/wp-content/themes/twentynineteen/style.scss",
+		"/C/xampp/htdocs/perfilconstrucciones_com/wp-content/themes/twentynineteen/style.css",
+		"/D/recursos-maquetado/WP/bootstrap/understrap_v0.8/woocommerce/product-searchform.php",
+		"/D/recursos-maquetado/WP/bootstrap/understrap_v0.8/inc/wpcom.php",
+		"/D/recursos-maquetado/WP/bootstrap/understrap_v0.8/inc/woocommerce.php",
+		"/D/recursos-maquetado/WP/bootstrap/understrap_v0.8/global-templates/hero.php",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/header.php",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/index.php",
+		"/C/xampp/htdocs/perfilconstrucciones_com/wp-content/themes/tema-pconst2019/header.php",
+		"/C/xampp/htdocs/perfilconstrucciones_com/wp-content/themes/tema-pconst2019/index.php",
+		"/C/xampp/htdocs/perfilconstrucciones_com/wp-content/themes/tema-pconst2019/style.scss",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/style.css",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/css/style.css",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/01.Sitio web - Blog del viajero/js/script.js",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/Blog Viajero/js/script.js",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/header-page.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/footer.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/front-page 2.php",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/style.min.css",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/inc/menu.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/xampp/htdocs/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/js/script.min.js",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/script.js",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/front-page.php",
+		"/C/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/C/xampp/apache/logs/error.log",
+		"/C/xampp/apache/logs/access.log",
+		"/c/xampp/php/logs/php_error_log",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/D/recursos-maquetado/WP/temas/bootstrap-basic.1.0.3.1/bootstrap-basic/functions.php",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/header.php",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/sidebar-top-left.php",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/index.php",
+		"/C/xampp/htdocs/plantemiarbol_com_ar/wp-content/themes/plantemiarbol_2020/comments.php",
+		"/D/CLIENTES/PMARB/web/maqueta2020/css/style.min.css",
+		"/D/CLIENTES/PMARB/web/maqueta2020/css/style.css",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con B4, WP y Angular/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/Blog Viajero/index.html",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con B4, WP y Angular/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/Blog Viajero/css/style.css",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con B4, WP y Angular/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/01.Sitio web - Blog del viajero/index.html",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con B4, WP y Angular/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/recursos/00.Bootstrap/index.html",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con B4, WP y Angular/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/3. Arquitectura Front-End para el sitio web - Blog del viajero/Blog Viajero/js/script.js",
+		"/C/wamp/www/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/style.scss",
+		"/C/wamp/www/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/style.css",
+		"/D/CLIENTES/BJ/Cursos/Máster en desarrollo Front End con B4, WP y Angular/Máster en desarrollo Front End con Bootstrap 4, WP y Angular/Notas.txt",
+		"/C/wamp/www/plantemiarbol_com_ar/carrito/understrap-child/sass/theme/_child_theme.scss",
+		"/C/wamp/www/plantemiarbol_com_ar/carrito/understrap-child/sass/theme/_child_theme_variables.scss",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/child-theme.scss",
+		"/C/wamp/www/plantemiarbol_com_ar/carrito/understrap-child/css/child-theme.css",
+		"/C/wamp/www/plantemiarbol_com_ar/carrito/understrap-child/css/child-theme.min.css",
+		"/D/recursos-maquetado/jQuery/_snippets/Toggle re-simple/ejemplo.txt",
+		"/D/CLIENTES/BJ/mi web/web2020/betojaton_com/index.html",
+		"/D/CLIENTES/BJ/Cursos/WP Introducción Practica a Gutenberg el Nuevo Editor/Recursos/vidafreelancer/functions.php",
+		"/C/Bitnami/wordpress-5.3.2-0/apps/wordpress/htdocs/wp-content/themes/understrap/functions.php",
+		"/C/Bitnami/wordpress-5.3.2-0/apps/wordpress/htdocs/wp-content/themes/understrap/inc/setup.php",
+		"/C/Bitnami/wordpress-5.3.2-0/apps/wordpress/htdocs/wp-content/themes/understrap/style.css",
+		"/C/Bitnami/wordpress-5.3.2-0/apps/wordpress/htdocs/wp-content/themes/understrap/inc/customizer.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-3/header.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/loop-work.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/page-home.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/ARC20191220174741.jpg",
+		"/D/recursos-maquetado/WP/bootstrap/_understrap/inc/customizer.php",
+		"/D/recursos-maquetado/WP/bootstrap/_understrap/inc/custom-header.php",
+		"/D/recursos-maquetado/WP/bootstrap/_understrap/header.php",
+		"/C/Users/betoj/AppData/Local/Temp/fz3temp-2/custom-header.php",
+		"/C/wamp/www/mylittlebuenosaires_com_br/wp-content/themes/mylittlebasas01/header.php",
+		"/D/recursos-maquetado/jQuery/IMAGEN/object-fit-images-master/demo/index.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.8,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<b>",
+			"btn",
+			"btn-primary",
+			"active",
+			"tongue",
+			"py-5",
+			"ornament",
+			" for defining terms.",
+			"or defining terms.",
+			"col-sm-3",
+			"Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+			"text-sm-left",
+			"col-md-4",
+			" <div class=\"bg-overlay\"></div>\n",
+			"d-flex",
+			"w-75",
+			"card",
+			"0.5",
+			"}\n",
+			"card",
+			"border-radius",
+			"rounded",
+			"serif",
+			"rounded",
+			"spacing",
+			"col-6",
+			"w-50",
+			"nav-link",
+			"navlink",
+			"navbar",
+			"text-secondary",
+			"target",
+			"iconify",
+			"material",
+			"228px",
+			"mask",
+			"room-thumb",
+			"carouselExampleControls",
+			"=\"ornament",
+			"bordo",
+			"shadow",
+			"card-deck",
+			"rounded",
+			"ornament mt-md-1",
+			"class=\"ornament\"",
+			"ornament",
+			"navbarSupportedContent",
+			"90px",
+			"d-flex",
+			"glyph",
+			"mx-md-3",
+			"5",
+			"0.93",
+			"mx-md-",
+			"class=\"col",
+			"col-2",
+			"float-left",
+			"line-he",
+			"py-3",
+			"auto",
+			"rounded",
+			"navbar",
+			"z-inde",
+			"dark",
+			"CAROUSEL",
+			"div",
+			"font-family"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243242,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1076,
+										1076
+									]
+								],
+								"scope": "bookmarks"
+							},
+							"col_0099B1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										93306,
+										93313
+									],
+									[
+										93527,
+										93534
+									],
+									[
+										94075,
+										94082
+									]
+								],
+								"scope": "col_0099B1FF"
+							},
+							"col_0099B1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0099B1FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_03BED7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										91322,
+										91329
+									],
+									[
+										91562,
+										91569
+									],
+									[
+										91849,
+										91856
+									]
+								],
+								"scope": "col_03BED7FF"
+							},
+							"col_03BED7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_03BED7FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_046699FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										103196,
+										103203
+									],
+									[
+										105682,
+										105689
+									],
+									[
+										107373,
+										107380
+									]
+								],
+								"scope": "col_046699FF"
+							},
+							"col_046699FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_046699FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_233B5EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										166620,
+										166627
+									],
+									[
+										170367,
+										170374
+									]
+								],
+								"scope": "col_233B5EFF"
+							},
+							"col_233B5EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_233B5EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_2740B1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										119928,
+										119935
+									],
+									[
+										120470,
+										120477
+									]
+								],
+								"scope": "col_2740B1FF"
+							},
+							"col_2740B1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_2740B1FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_293067FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54262,
+										54269
+									]
+								],
+								"scope": "col_293067FF"
+							},
+							"col_293067FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_293067FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_2D2D2DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										221160,
+										221167
+									],
+									[
+										225209,
+										225216
+									],
+									[
+										226031,
+										226038
+									],
+									[
+										226108,
+										226115
+									],
+									[
+										226185,
+										226192
+									],
+									[
+										226262,
+										226269
+									],
+									[
+										226339,
+										226346
+									],
+									[
+										226416,
+										226423
+									]
+								],
+								"scope": "col_2D2D2DFF"
+							},
+							"col_2D2D2DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_2D2D2DFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_2DD2E3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										208713,
+										208720
+									]
+								],
+								"scope": "col_2DD2E3FF"
+							},
+							"col_2DD2E3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_2DD2E3FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_314DCAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										117940,
+										117947
+									],
+									[
+										119835,
+										119842
+									],
+									[
+										120142,
+										120149
+									]
+								],
+								"scope": "col_314DCAFF"
+							},
+							"col_314DCAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_314DCAFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_336686FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										184461,
+										184468
+									]
+								],
+								"scope": "col_336686FF"
+							},
+							"col_336686FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_336686FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_373E7AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54210,
+										54217
+									]
+								],
+								"scope": "col_373E7AFF"
+							},
+							"col_373E7AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_373E7AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_384949FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										211897,
+										211904
+									]
+								],
+								"scope": "col_384949FF"
+							},
+							"col_384949FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_384949FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_3BDFC7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										55296,
+										55303
+									],
+									[
+										55382,
+										55389
+									]
+								],
+								"scope": "col_3BDFC7FF"
+							},
+							"col_3BDFC7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_3BDFC7FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_3D3D3DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										133396,
+										133403
+									]
+								],
+								"scope": "col_3D3D3DFF"
+							},
+							"col_3D3D3DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_3D3D3DFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_444444FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										57842,
+										57846
+									]
+								],
+								"scope": "col_444444FF"
+							},
+							"col_444444FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_444444FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_47821CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										66147,
+										66154
+									],
+									[
+										67395,
+										67402
+									],
+									[
+										67756,
+										67763
+									]
+								],
+								"scope": "col_47821CFF"
+							},
+							"col_47821CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_47821CFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4B3F4EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										79512,
+										79519
+									]
+								],
+								"scope": "col_4B3F4EFF"
+							},
+							"col_4B3F4EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4B3F4EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4C4C4CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										198847,
+										198854
+									]
+								],
+								"scope": "col_4C4C4CFF"
+							},
+							"col_4C4C4CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4C4C4CFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4C78A0FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										184270,
+										184277
+									],
+									[
+										185011,
+										185018
+									]
+								],
+								"scope": "col_4C78A0FF"
+							},
+							"col_4C78A0FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4C78A0FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4E901EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										66977,
+										66984
+									],
+									[
+										68575,
+										68582
+									],
+									[
+										69083,
+										69090
+									],
+									[
+										70701,
+										70708
+									],
+									[
+										71050,
+										71057
+									]
+								],
+								"scope": "col_4E901EFF"
+							},
+							"col_4E901EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4E901EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4F2000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										133778,
+										133785
+									],
+									[
+										135495,
+										135502
+									]
+								],
+								"scope": "col_4F2000FF"
+							},
+							"col_4F2000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4F2000FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4F66D1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										117870,
+										117877
+									],
+									[
+										120762,
+										120769
+									]
+								],
+								"scope": "col_4F66D1FF"
+							},
+							"col_4F66D1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4F66D1FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_503441FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										78452,
+										78459
+									]
+								],
+								"scope": "col_503441FF"
+							},
+							"col_503441FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_503441FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_505491FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54691,
+										54698
+									],
+									[
+										55232,
+										55239
+									]
+								],
+								"scope": "col_505491FF"
+							},
+							"col_505491FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_505491FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_52668EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										166244,
+										166251
+									],
+									[
+										170022,
+										170029
+									],
+									[
+										170623,
+										170630
+									]
+								],
+								"scope": "col_52668EFF"
+							},
+							"col_52668EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_52668EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5A5A5AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										57648,
+										57655
+									],
+									[
+										198741,
+										198748
+									]
+								],
+								"scope": "col_5A5A5AFF"
+							},
+							"col_5A5A5AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5A5A5AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5B5B5BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										135873,
+										135880
+									]
+								],
+								"scope": "col_5B5B5BFF"
+							},
+							"col_5B5B5BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5B5B5BFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5C414BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										78249,
+										78256
+									]
+								],
+								"scope": "col_5C414BFF"
+							},
+							"col_5C414BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5C414BFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5D5360FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										79406,
+										79413
+									],
+									[
+										80394,
+										80401
+									]
+								],
+								"scope": "col_5D5360FF"
+							},
+							"col_5D5360FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5D5360FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5EAC24FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										68077,
+										68084
+									],
+									[
+										69949,
+										69956
+									],
+									[
+										70375,
+										70382
+									],
+									[
+										70628,
+										70635
+									],
+									[
+										70773,
+										70780
+									],
+									[
+										70842,
+										70849
+									],
+									[
+										70910,
+										70917
+									],
+									[
+										70978,
+										70985
+									],
+									[
+										71460,
+										71467
+									],
+									[
+										71855,
+										71862
+									],
+									[
+										71924,
+										71931
+									],
+									[
+										72284,
+										72291
+									],
+									[
+										72566,
+										72573
+									],
+									[
+										72634,
+										72641
+									]
+								],
+								"scope": "col_5EAC24FF"
+							},
+							"col_5EAC24FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5EAC24FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6165A8FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54484,
+										54491
+									],
+									[
+										55021,
+										55028
+									]
+								],
+								"scope": "col_6165A8FF"
+							},
+							"col_6165A8FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6165A8FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_64B0D9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										46018,
+										46025
+									],
+									[
+										46330,
+										46337
+									]
+								],
+								"scope": "col_64B0D9FF"
+							},
+							"col_64B0D9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_64B0D9FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_656D78FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										232824,
+										232831
+									],
+									[
+										233632,
+										233639
+									]
+								],
+								"scope": "col_656D78FF"
+							},
+							"col_656D78FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_656D78FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_666666FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										46623,
+										46627
+									]
+								],
+								"scope": "col_666666FF"
+							},
+							"col_666666FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_666666FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_69D6F4FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										235873,
+										235880
+									],
+									[
+										235956,
+										235963
+									]
+								],
+								"scope": "col_69D6F4FF"
+							},
+							"col_69D6F4FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_69D6F4FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6AD2EBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										203405,
+										203412
+									]
+								],
+								"scope": "col_6AD2EBFF"
+							},
+							"col_6AD2EBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6AD2EBFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6BD9E7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										95379,
+										95386
+									],
+									[
+										96842,
+										96849
+									],
+									[
+										97038,
+										97045
+									],
+									[
+										97259,
+										97266
+									]
+								],
+								"scope": "col_6BD9E7FF"
+							},
+							"col_6BD9E7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6BD9E7FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6C7FD9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										120614,
+										120621
+									]
+								],
+								"scope": "col_6C7FD9FF"
+							},
+							"col_6C7FD9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6C7FD9FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6DC82AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										69521,
+										69528
+									],
+									[
+										71115,
+										71122
+									],
+									[
+										71994,
+										72001
+									]
+								],
+								"scope": "col_6DC82AFF"
+							},
+							"col_6DC82AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6DC82AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6E1414FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										115239,
+										115246
+									]
+								],
+								"scope": "col_6E1414FF"
+							},
+							"col_6E1414FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6E1414FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6F6571FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										81740,
+										81747
+									],
+									[
+										81921,
+										81928
+									],
+									[
+										82562,
+										82569
+									],
+									[
+										82710,
+										82717
+									]
+								],
+								"scope": "col_6F6571FF"
+							},
+							"col_6F6571FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6F6571FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_75D4F9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										169767,
+										169774
+									]
+								],
+								"scope": "col_75D4F9FF"
+							},
+							"col_75D4F9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_75D4F9FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_775436FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										104829,
+										104836
+									]
+								],
+								"scope": "col_775436FF"
+							},
+							"col_775436FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_775436FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7A6D79FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										117675,
+										117682
+									]
+								],
+								"scope": "col_7A6D79FF"
+							},
+							"col_7A6D79FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7A6D79FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7CA1B1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										211652,
+										211659
+									]
+								],
+								"scope": "col_7CA1B1FF"
+							},
+							"col_7CA1B1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7CA1B1FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_808080FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										44220,
+										44227
+									]
+								],
+								"scope": "col_808080FF"
+							},
+							"col_808080FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_808080FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_80B9F9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										167890,
+										167897
+									]
+								],
+								"scope": "col_80B9F9FF"
+							},
+							"col_80B9F9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_80B9F9FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_838383FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										58224,
+										58231
+									],
+									[
+										59183,
+										59190
+									],
+									[
+										59373,
+										59380
+									],
+									[
+										95682,
+										95689
+									]
+								],
+								"scope": "col_838383FF"
+							},
+							"col_838383FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_838383FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_8C1A00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										135654,
+										135661
+									]
+								],
+								"scope": "col_8C1A00FF"
+							},
+							"col_8C1A00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_8C1A00FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_8E3900FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										134378,
+										134385
+									]
+								],
+								"scope": "col_8E3900FF"
+							},
+							"col_8E3900FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_8E3900FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_8E8E8EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										199014,
+										199021
+									]
+								],
+								"scope": "col_8E8E8EFF"
+							},
+							"col_8E8E8EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_8E8E8EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_8EBAC5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										211383,
+										211390
+									]
+								],
+								"scope": "col_8EBAC5FF"
+							},
+							"col_8EBAC5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_8EBAC5FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_924630FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										114861,
+										114868
+									]
+								],
+								"scope": "col_924630FF"
+							},
+							"col_924630FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_924630FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_928392FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										117588,
+										117595
+									]
+								],
+								"scope": "col_928392FF"
+							},
+							"col_928392FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_928392FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_95C6DFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										183811,
+										183818
+									],
+									[
+										184079,
+										184086
+									]
+								],
+								"scope": "col_95C6DFFF"
+							},
+							"col_95C6DFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_95C6DFFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_992A2AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										114534,
+										114541
+									]
+								],
+								"scope": "col_992A2AFF"
+							},
+							"col_992A2AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_992A2AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9AC6C3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										185275,
+										185282
+									],
+									[
+										185869,
+										185876
+									]
+								],
+								"scope": "col_9AC6C3FF"
+							},
+							"col_9AC6C3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9AC6C3FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9B9B9BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										94761,
+										94768
+									]
+								],
+								"scope": "col_9B9B9BFF"
+							},
+							"col_9B9B9BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9B9B9BFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9C9C9CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										58032,
+										58039
+									],
+									[
+										58832,
+										58839
+									],
+									[
+										58993,
+										59000
+									]
+								],
+								"scope": "col_9C9C9CFF"
+							},
+							"col_9C9C9CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9C9C9CFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9D552EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										125496,
+										125503
+									],
+									[
+										127632,
+										127639
+									]
+								],
+								"scope": "col_9D552EFF"
+							},
+							"col_9D552EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9D552EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9EA7AFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										103317,
+										103324
+									],
+									[
+										103577,
+										103584
+									],
+									[
+										103829,
+										103836
+									]
+								],
+								"scope": "col_9EA7AFFF"
+							},
+							"col_9EA7AFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9EA7AFFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9EF1E5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54755,
+										54762
+									]
+								],
+								"scope": "col_9EF1E5FF"
+							},
+							"col_9EF1E5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9EF1E5FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A0A0A0FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										198641,
+										198648
+									]
+								],
+								"scope": "col_A0A0A0FF"
+							},
+							"col_A0A0A0FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A0A0A0FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A2D961FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										186821,
+										186828
+									],
+									[
+										187027,
+										187034
+									]
+								],
+								"scope": "col_A2D961FF"
+							},
+							"col_A2D961FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A2D961FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A46243FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										185689,
+										185696
+									]
+								],
+								"scope": "col_A46243FF"
+							},
+							"col_A46243FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A46243FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A6E7F0FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										95051,
+										95058
+									],
+									[
+										95981,
+										95988
+									],
+									[
+										96287,
+										96294
+									],
+									[
+										96622,
+										96629
+									]
+								],
+								"scope": "col_A6E7F0FF"
+							},
+							"col_A6E7F0FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A6E7F0FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A7E8F1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										58671,
+										58678
+									]
+								],
+								"scope": "col_A7E8F1FF"
+							},
+							"col_A7E8F1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A7E8F1FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A85000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										37543,
+										37550
+									],
+									[
+										37728,
+										37735
+									],
+									[
+										38328,
+										38335
+									],
+									[
+										38469,
+										38476
+									]
+								],
+								"scope": "col_A85000FF"
+							},
+							"col_A85000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A85000FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A86B5AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										115039,
+										115046
+									]
+								],
+								"scope": "col_A86B5AFF"
+							},
+							"col_A86B5AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A86B5AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A89CA8FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										118938,
+										118945
+									]
+								],
+								"scope": "col_A89CA8FF"
+							},
+							"col_A89CA8FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A89CA8FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A9CB73FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										219580,
+										219587
+									]
+								],
+								"scope": "col_A9CB73FF"
+							},
+							"col_A9CB73FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A9CB73FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_AA5E33FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										125477,
+										125484
+									],
+									[
+										127442,
+										127449
+									]
+								],
+								"scope": "col_AA5E33FF"
+							},
+							"col_AA5E33FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_AA5E33FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_AA6100FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										66684,
+										66691
+									]
+								],
+								"scope": "col_AA6100FF"
+							},
+							"col_AA6100FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_AA6100FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_AAB2BDFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										228556,
+										228563
+									],
+									[
+										228679,
+										228686
+									]
+								],
+								"scope": "col_AAB2BDFF"
+							},
+							"col_AAB2BDFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_AAB2BDFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ABE0DAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										181292,
+										181299
+									],
+									[
+										181562,
+										181569
+									],
+									[
+										182898,
+										182905
+									]
+								],
+								"scope": "col_ABE0DAFF"
+							},
+							"col_ABE0DAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ABE0DAFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B066DBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										59901,
+										59908
+									]
+								],
+								"scope": "col_B066DBFF"
+							},
+							"col_B066DBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B066DBFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B27946FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										226999,
+										227006
+									],
+									[
+										233156,
+										233163
+									],
+									[
+										233942,
+										233949
+									]
+								],
+								"scope": "col_B27946FF"
+							},
+							"col_B27946FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B27946FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B48764FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										78191,
+										78198
+									],
+									[
+										79925,
+										79932
+									]
+								],
+								"scope": "col_B48764FF"
+							},
+							"col_B48764FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B48764FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B4CBDBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										167714,
+										167721
+									]
+								],
+								"scope": "col_B4CBDBFF"
+							},
+							"col_B4CBDBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B4CBDBFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B4DD7FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										232019,
+										232026
+									]
+								],
+								"scope": "col_B4DD7FFF"
+							},
+							"col_B4DD7FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B4DD7FFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BBB0BAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										118765,
+										118772
+									],
+									[
+										119615,
+										119622
+									],
+									[
+										121433,
+										121440
+									]
+								],
+								"scope": "col_BBB0BAFF"
+							},
+							"col_BBB0BAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BBB0BAFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BC0000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										133937,
+										133944
+									]
+								],
+								"scope": "col_BC0000FF"
+							},
+							"col_BC0000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BC0000FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BC4242FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										168613,
+										168620
+									]
+								],
+								"scope": "col_BC4242FF"
+							},
+							"col_BC4242FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BC4242FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BF4D00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										135203,
+										135210
+									]
+								],
+								"scope": "col_BF4D00FF"
+							},
+							"col_BF4D00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BF4D00FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BF80E2FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										59587,
+										59594
+									]
+								],
+								"scope": "col_BF80E2FF"
+							},
+							"col_BF80E2FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BF80E2FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C2C7CCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										45038,
+										45045
+									]
+								],
+								"scope": "col_C2C7CCFF"
+							},
+							"col_C2C7CCFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C2C7CCFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C39772FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										78617,
+										78624
+									]
+								],
+								"scope": "col_C39772FF"
+							},
+							"col_C39772FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C39772FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C87C5BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										186204,
+										186211
+									]
+								],
+								"scope": "col_C87C5BFF"
+							},
+							"col_C87C5BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C87C5BFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CAC0C9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										118308,
+										118315
+									],
+									[
+										118394,
+										118401
+									],
+									[
+										118480,
+										118487
+									],
+									[
+										118566,
+										118573
+									],
+									[
+										119230,
+										119237
+									],
+									[
+										121049,
+										121056
+									]
+								],
+								"scope": "col_CAC0C9FF"
+							},
+							"col_CAC0C9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CAC0C9FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CC7400FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										66461,
+										66468
+									]
+								],
+								"scope": "col_CC7400FF"
+							},
+							"col_CC7400FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CC7400FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CC905EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										153064,
+										153071
+									],
+									[
+										154819,
+										154826
+									]
+								],
+								"scope": "col_CC905EFF"
+							},
+							"col_CC905EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CC905EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CCC9C0FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										113871,
+										113878
+									],
+									[
+										114043,
+										114050
+									]
+								],
+								"scope": "col_CCC9C0FF"
+							},
+							"col_CCC9C0FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CCC9C0FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CCCCCCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										199370,
+										199374
+									],
+									[
+										199630,
+										199634
+									],
+									[
+										199818,
+										199822
+									],
+									[
+										200042,
+										200046
+									]
+								],
+								"scope": "col_CCCCCCFF"
+							},
+							"col_CCCCCCFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CCCCCCFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CCD1D9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										228409,
+										228416
+									],
+									[
+										232226,
+										232233
+									]
+								],
+								"scope": "col_CCD1D9FF"
+							},
+							"col_CCD1D9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CCD1D9FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CD915AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										80834,
+										80841
+									]
+								],
+								"scope": "col_CD915AFF"
+							},
+							"col_CD915AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CD915AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CECECEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										57511,
+										57518
+									],
+									[
+										61569,
+										61576
+									],
+									[
+										93086,
+										93093
+									],
+									[
+										94310,
+										94317
+									],
+									[
+										94528,
+										94535
+									]
+								],
+								"scope": "col_CECECEFF"
+							},
+							"col_CECECEFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CECECEFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CF9E76FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										228801,
+										228808
+									]
+								],
+								"scope": "col_CF9E76FF"
+							},
+							"col_CF9E76FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CF9E76FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D0F4EFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										180982,
+										180989
+									],
+									[
+										183541,
+										183548
+									],
+									[
+										184780,
+										184787
+									]
+								],
+								"scope": "col_D0F4EFFF"
+							},
+							"col_D0F4EFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D0F4EFFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D59F63FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										80758,
+										80765
+									]
+								],
+								"scope": "col_D59F63FF"
+							},
+							"col_D59F63FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D59F63FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D5F3F7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										58431,
+										58438
+									]
+								],
+								"scope": "col_D5F3F7FF"
+							},
+							"col_D5F3F7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D5F3F7FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D6BCABFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										185095,
+										185102
+									]
+								],
+								"scope": "col_D6BCABFF"
+							},
+							"col_D6BCABFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D6BCABFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D89E68FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										147296,
+										147303
+									],
+									[
+										149709,
+										149716
+									],
+									[
+										150600,
+										150607
+									],
+									[
+										151804,
+										151811
+									],
+									[
+										153916,
+										153923
+									],
+									[
+										156383,
+										156390
+									],
+									[
+										157196,
+										157203
+									],
+									[
+										157833,
+										157840
+									]
+								],
+								"scope": "col_D89E68FF"
+							},
+							"col_D89E68FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D89E68FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D8D1D7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										117500,
+										117507
+									],
+									[
+										117959,
+										117966
+									]
+								],
+								"scope": "col_D8D1D7FF"
+							},
+							"col_D8D1D7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D8D1D7FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D9AB5EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										211097,
+										211104
+									]
+								],
+								"scope": "col_D9AB5EFF"
+							},
+							"col_D9AB5EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D9AB5EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DBD9DCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										77957,
+										77964
+									]
+								],
+								"scope": "col_DBD9DCFF"
+							},
+							"col_DBD9DCFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DBD9DCFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DEAF73FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										80691,
+										80698
+									]
+								],
+								"scope": "col_DEAF73FF"
+							},
+							"col_DEAF73FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DEAF73FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DEECF1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										211916,
+										211923
+									]
+								],
+								"scope": "col_DEECF1FF"
+							},
+							"col_DEECF1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DEECF1FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DF3333FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										114621,
+										114628
+									]
+								],
+								"scope": "col_DF3333FF"
+							},
+							"col_DF3333FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DF3333FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E0E0E0FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										199138,
+										199145
+									],
+									[
+										199262,
+										199269
+									],
+									[
+										199509,
+										199516
+									],
+									[
+										199734,
+										199741
+									],
+									[
+										199933,
+										199940
+									]
+								],
+								"scope": "col_E0E0E0FF"
+							},
+							"col_E0E0E0FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E0E0E0FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E2780EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										37242,
+										37249
+									],
+									[
+										38025,
+										38032
+									]
+								],
+								"scope": "col_E2780EFF"
+							},
+							"col_E2780EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E2780EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E2B17DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										145866,
+										145873
+									],
+									[
+										146227,
+										146234
+									],
+									[
+										146588,
+										146595
+									],
+									[
+										146950,
+										146957
+									],
+									[
+										148101,
+										148108
+									],
+									[
+										149395,
+										149402
+									],
+									[
+										151493,
+										151500
+									],
+									[
+										152703,
+										152710
+									],
+									[
+										155670,
+										155677
+									],
+									[
+										156044,
+										156051
+									]
+								],
+								"scope": "col_E2B17DFF"
+							},
+							"col_E2B17DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E2B17DFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E59876FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										169319,
+										169326
+									]
+								],
+								"scope": "col_E59876FF"
+							},
+							"col_E59876FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E59876FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E5BF89FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										144208,
+										144215
+									],
+									[
+										144868,
+										144875
+									],
+									[
+										145570,
+										145577
+									],
+									[
+										147846,
+										147853
+									],
+									[
+										148616,
+										148623
+									],
+									[
+										149126,
+										149133
+									]
+								],
+								"scope": "col_E5BF89FF"
+							},
+							"col_E5BF89FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E5BF89FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E63950FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										203189,
+										203196
+									]
+								],
+								"scope": "col_E63950FF"
+							},
+							"col_E63950FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E63950FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E6E2E6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										117415,
+										117422
+									]
+								],
+								"scope": "col_E6E2E6FF"
+							},
+							"col_E6E2E6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E6E2E6FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E6E6E6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										44761,
+										44768
+									]
+								],
+								"scope": "col_E6E6E6FF"
+							},
+							"col_E6E6E6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E6E6E6FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E6EFF5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										167200,
+										167207
+									]
+								],
+								"scope": "col_E6EFF5FF"
+							},
+							"col_E6EFF5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E6EFF5FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E6F072FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										186464,
+										186471
+									]
+								],
+								"scope": "col_E6F072FF"
+							},
+							"col_E6F072FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E6F072FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E7E7E7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										57171,
+										57178
+									],
+									[
+										61289,
+										61296
+									]
+								],
+								"scope": "col_E7E7E7FF"
+							},
+							"col_E7E7E7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E7E7E7FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E8E5DAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										114276,
+										114283
+									]
+								],
+								"scope": "col_E8E5DAFF"
+							},
+							"col_E8E5DAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E8E5DAFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EAB765FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										210918,
+										210925
+									]
+								],
+								"scope": "col_EAB765FF"
+							},
+							"col_EAB765FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EAB765FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EAEAEAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										220705,
+										220712
+									]
+								],
+								"scope": "col_EAEAEAFF"
+							},
+							"col_EAEAEAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EAEAEAFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EC462EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										126867,
+										126874
+									]
+								],
+								"scope": "col_EC462EFF"
+							},
+							"col_EC462EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EC462EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EC5569FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										202970,
+										202977
+									],
+									[
+										203859,
+										203866
+									]
+								],
+								"scope": "col_EC5569FF"
+							},
+							"col_EC5569FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EC5569FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ECECECFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										91081,
+										91088
+									],
+									[
+										92040,
+										92047
+									],
+									[
+										92233,
+										92240
+									]
+								],
+								"scope": "col_ECECECFF"
+							},
+							"col_ECECECFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ECECECFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ED5565FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										234557,
+										234564
+									]
+								],
+								"scope": "col_ED5565FF"
+							},
+							"col_ED5565FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ED5565FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EDEBEDFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										79222,
+										79229
+									],
+									[
+										79619,
+										79626
+									],
+									[
+										79770,
+										79777
+									]
+								],
+								"scope": "col_EDEBEDFF"
+							},
+							"col_EDEBEDFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EDEBEDFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EF5050FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										107023,
+										107030
+									]
+								],
+								"scope": "col_EF5050FF"
+							},
+							"col_EF5050FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EF5050FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EF7385FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										234261,
+										234268
+									]
+								],
+								"scope": "col_EF7385FF"
+							},
+							"col_EF7385FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EF7385FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F0D0B4FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										227640,
+										227647
+									],
+									[
+										227723,
+										227730
+									],
+									[
+										227839,
+										227846
+									],
+									[
+										227986,
+										227993
+									],
+									[
+										228155,
+										228162
+									],
+									[
+										228362,
+										228369
+									],
+									[
+										234858,
+										234865
+									],
+									[
+										235025,
+										235032
+									],
+									[
+										235191,
+										235198
+									],
+									[
+										235371,
+										235378
+									],
+									[
+										235627,
+										235634
+									],
+									[
+										235790,
+										235797
+									],
+									[
+										236250,
+										236257
+									],
+									[
+										236416,
+										236423
+									],
+									[
+										236638,
+										236645
+									],
+									[
+										236831,
+										236838
+									]
+								],
+								"scope": "col_F0D0B4FF"
+							},
+							"col_F0D0B4FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F0D0B4FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F46A58FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										167909,
+										167916
+									]
+								],
+								"scope": "col_F46A58FF"
+							},
+							"col_F46A58FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F46A58FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F47A00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										187642,
+										187649
+									]
+								],
+								"scope": "col_F47A00FF"
+							},
+							"col_F47A00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F47A00FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F4CD57FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										220202,
+										220209
+									]
+								],
+								"scope": "col_F4CD57FF"
+							},
+							"col_F4CD57FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F4CD57FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F5DCB4FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										143914,
+										143921
+									],
+									[
+										144541,
+										144548
+									],
+									[
+										145270,
+										145277
+									],
+									[
+										147502,
+										147509
+									],
+									[
+										148378,
+										148385
+									],
+									[
+										148886,
+										148893
+									]
+								],
+								"scope": "col_F5DCB4FF"
+							},
+							"col_F5DCB4FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F5DCB4FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F7931EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										105041,
+										105048
+									]
+								],
+								"scope": "col_F7931EFF"
+							},
+							"col_F7931EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F7931EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F7BC94FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										168912,
+										168919
+									]
+								],
+								"scope": "col_F7BC94FF"
+							},
+							"col_F7BC94FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F7BC94FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F7F5F2FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										113701,
+										113708
+									]
+								],
+								"scope": "col_F7F5F2FF"
+							},
+							"col_F7F5F2FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F7F5F2FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F93100FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										136318,
+										136325
+									]
+								],
+								"scope": "col_F93100FF"
+							},
+							"col_F93100FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F93100FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FAD7A5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										80629,
+										80636
+									],
+									[
+										82107,
+										82114
+									]
+								],
+								"scope": "col_FAD7A5FF"
+							},
+							"col_FAD7A5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FAD7A5FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FAD87CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										203464,
+										203471
+									]
+								],
+								"scope": "col_FAD87CFF"
+							},
+							"col_FAD87CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FAD87CFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FB5532FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										126837,
+										126844
+									],
+									[
+										127835,
+										127842
+									],
+									[
+										128069,
+										128076
+									],
+									[
+										128294,
+										128301
+									],
+									[
+										128525,
+										128532
+									]
+								],
+								"scope": "col_FB5532FF"
+							},
+							"col_FB5532FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FB5532FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FB9927FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										126784,
+										126791
+									]
+								],
+								"scope": "col_FB9927FF"
+							},
+							"col_FB9927FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FB9927FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCA62FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										126652,
+										126659
+									]
+								],
+								"scope": "col_FCA62FFF"
+							},
+							"col_FCA62FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCA62FFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCB44DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										126108,
+										126115
+									],
+									[
+										126513,
+										126520
+									]
+								],
+								"scope": "col_FCB44DFF"
+							},
+							"col_FCB44DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCB44DFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCC16DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										125986,
+										125993
+									]
+								],
+								"scope": "col_FCC16DFF"
+							},
+							"col_FCC16DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCC16DFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCC368FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										45320,
+										45327
+									],
+									[
+										45706,
+										45713
+									],
+									[
+										46882,
+										46889
+									]
+								],
+								"scope": "col_FCC368FF"
+							},
+							"col_FCC368FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCC368FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCCE99FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										36031,
+										36038
+									],
+									[
+										36615,
+										36622
+									],
+									[
+										36948,
+										36955
+									],
+									[
+										37179,
+										37186
+									]
+								],
+								"scope": "col_FCCE99FF"
+							},
+							"col_FCCE99FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCCE99FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCD770FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										228468,
+										228475
+									],
+									[
+										228739,
+										228746
+									],
+									[
+										231687,
+										231694
+									]
+								],
+								"scope": "col_FCD770FF"
+							},
+							"col_FCD770FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCD770FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCDB67FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										105370,
+										105377
+									]
+								],
+								"scope": "col_FCDB67FF"
+							},
+							"col_FCDB67FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCDB67FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FDDAA9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										125675,
+										125682
+									]
+								],
+								"scope": "col_FDDAA9FF"
+							},
+							"col_FDDAA9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FDDAA9FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FEBE40FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										203666,
+										203673
+									]
+								],
+								"scope": "col_FEBE40FF"
+							},
+							"col_FEBE40FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FEBE40FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FECAA8FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										181801,
+										181808
+									]
+								],
+								"scope": "col_FECAA8FF"
+							},
+							"col_FECAA8FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FECAA8FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FEE6CCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										35514,
+										35521
+									],
+									[
+										36293,
+										36300
+									],
+									[
+										38758,
+										38765
+									]
+								],
+								"scope": "col_FEE6CCFF"
+							},
+							"col_FEE6CCFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FEE6CCFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF826EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										227160,
+										227167
+									],
+									[
+										227551,
+										227558
+									]
+								],
+								"scope": "col_FF826EFF"
+							},
+							"col_FF826EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF826EFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF8709FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										208478,
+										208485
+									],
+									[
+										210477,
+										210484
+									],
+									[
+										210743,
+										210750
+									]
+								],
+								"scope": "col_FF8709FF"
+							},
+							"col_FF8709FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF8709FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF9838FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										208120,
+										208127
+									],
+									[
+										210240,
+										210247
+									]
+								],
+								"scope": "col_FF9838FF"
+							},
+							"col_FF9838FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF9838FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF9921FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										187314,
+										187321
+									]
+								],
+								"scope": "col_FF9921FF"
+							},
+							"col_FF9921FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF9921FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFB38CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										182131,
+										182138
+									]
+								],
+								"scope": "col_FFB38CFF"
+							},
+							"col_FFB38CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFB38CFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFB98AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										104094,
+										104101
+									],
+									[
+										106371,
+										106378
+									]
+								],
+								"scope": "col_FFB98AFF"
+							},
+							"col_FFB98AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFB98AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFBD47FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										182713,
+										182720
+									]
+								],
+								"scope": "col_FFBD47FF"
+							},
+							"col_FFBD47FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFBD47FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFD500FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										60759,
+										60766
+									],
+									[
+										61104,
+										61111
+									]
+								],
+								"scope": "col_FFD500FF"
+							},
+							"col_FFD500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFD500FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFD5B3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										102921,
+										102928
+									],
+									[
+										104291,
+										104298
+									],
+									[
+										104571,
+										104578
+									]
+								],
+								"scope": "col_FFD5B3FF"
+							},
+							"col_FFD5B3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFD5B3FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFDDA6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										44508,
+										44515
+									]
+								],
+								"scope": "col_FFDDA6FF"
+							},
+							"col_FFDDA6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFDDA6FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFDF49FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										182471,
+										182478
+									]
+								],
+								"scope": "col_FFDF49FF"
+							},
+							"col_FFDF49FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFDF49FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFE1B4FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										81022,
+										81029
+									]
+								],
+								"scope": "col_FFE1B4FF"
+							},
+							"col_FFE1B4FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFE1B4FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFE55AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										60157,
+										60164
+									],
+									[
+										60414,
+										60421
+									]
+								],
+								"scope": "col_FFE55AFF"
+							},
+							"col_FFE55AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFE55AFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFE5C2FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										208265,
+										208272
+									],
+									[
+										210042,
+										210049
+									]
+								],
+								"scope": "col_FFE5C2FF"
+							},
+							"col_FFE5C2FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFE5C2FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFEAA7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										231553,
+										231560
+									]
+								],
+								"scope": "col_FFEAA7FF"
+							},
+							"col_FFEAA7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFEAA7FF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFF0CFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										185605,
+										185612
+									]
+								],
+								"scope": "col_FFF0CFFF"
+							},
+							"col_FFF0CFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFF0CFFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFF3DEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										207731,
+										207738
+									],
+									[
+										209499,
+										209506
+									]
+								],
+								"scope": "col_FFF3DEFF"
+							},
+							"col_FFF3DEFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFF3DEFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										103380,
+										103387
+									],
+									[
+										103641,
+										103648
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										35352,
+										35352
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								5085,
+								5085
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.59.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1274.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/CLIENTES/RAUL GARCIA/ID/colores/TD-palette.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+							"col_06124EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										301,
+										308
+									],
+									[
+										459,
+										478
+									],
+									[
+										585,
+										592
+									],
+									[
+										717,
+										736
+									]
+								],
+								"scope": "col_06124EFF"
+							},
+							"col_06124EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_06124EFF_circle.png",
+								"regions":
+								[
+									[
+										278,
+										278
+									],
+									[
+										430,
+										430
+									],
+									[
+										563,
+										563
+									],
+									[
+										696,
+										696
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_10217CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										268,
+										275
+									],
+									[
+										408,
+										427
+									],
+									[
+										553,
+										560
+									],
+									[
+										675,
+										694
+									]
+								],
+								"scope": "col_10217CFF"
+							},
+							"col_10217CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_10217CFF_circle.png",
+								"regions":
+								[
+									[
+										248,
+										248
+									],
+									[
+										383,
+										383
+									],
+									[
+										535,
+										535
+									],
+									[
+										657,
+										657
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_2137AAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										238,
+										245
+									],
+									[
+										360,
+										379
+									],
+									[
+										525,
+										532
+									],
+									[
+										635,
+										654
+									]
+								],
+								"scope": "col_2137AAFF"
+							},
+							"col_2137AAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_2137AAFF_circle.png",
+								"regions":
+								[
+									[
+										213,
+										213
+									],
+									[
+										331,
+										331
+									],
+									[
+										502,
+										502
+									],
+									[
+										613,
+										613
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "html/js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "html/scss/custom.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7334,
+						"regions":
+						{
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										3725,
+										3729
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										3697,
+										3697
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_111111FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										213,
+										217
+									]
+								],
+								"scope": "col_111111FF"
+							},
+							"col_111111FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_111111FF_circle.png",
+								"regions":
+								[
+									[
+										200,
+										200
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_3B5998FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5732,
+										5739
+									]
+								],
+								"scope": "col_3B5998FF"
+							},
+							"col_3B5998FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_3B5998FF_circle.png",
+								"regions":
+								[
+									[
+										5710,
+										5710
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_480000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										69,
+										76
+									]
+								],
+								"scope": "col_480000FF"
+							},
+							"col_480000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_480000FF_circle.png",
+								"regions":
+								[
+									[
+										54,
+										54
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9D8269FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										142,
+										149
+									]
+								],
+								"scope": "col_9D8269FF"
+							},
+							"col_9D8269FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9D8269FF_circle.png",
+								"regions":
+								[
+									[
+										125,
+										125
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B71312FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										45,
+										52
+									]
+								],
+								"scope": "col_B71312FF"
+							},
+							"col_B71312FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B71312FF_circle.png",
+								"regions":
+								[
+									[
+										35,
+										35
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DFD1C4FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										116,
+										123
+									]
+								],
+								"scope": "col_DFD1C4FF"
+							},
+							"col_DFD1C4FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DFD1C4FF_circle.png",
+								"regions":
+								[
+									[
+										104,
+										104
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F05959FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										26,
+										33
+									]
+								],
+								"scope": "col_F05959FF"
+							},
+							"col_F05959FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F05959FF_circle.png",
+								"regions":
+								[
+									[
+										10,
+										10
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFF7EFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										95,
+										102
+									]
+								],
+								"scope": "col_FFF7EFFF"
+							},
+							"col_FFF7EFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFF7EFFF_circle.png",
+								"regions":
+								[
+									[
+										78,
+										78
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5761,
+										5765
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										5742,
+										5742
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								1927,
+								1927
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "html/bootstrap/scss/_variables.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 47816,
+						"regions":
+						{
+							"col_0000000C":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										39224,
+										39242
+									]
+								],
+								"scope": "col_0000000C"
+							},
+							"col_0000000C_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000000C_circle.png",
+								"regions":
+								[
+									[
+										39188,
+										39188
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000019":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										38907,
+										38924
+									]
+								],
+								"scope": "col_00000019"
+							},
+							"col_00000019_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000019_circle.png",
+								"regions":
+								[
+									[
+										38871,
+										38871
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										483,
+										488
+									],
+									[
+										493,
+										497
+									],
+									[
+										6372,
+										6377
+									],
+									[
+										6444,
+										6449
+									],
+									[
+										6514,
+										6519
+									],
+									[
+										9798,
+										9803
+									],
+									[
+										10032,
+										10037
+									],
+									[
+										10595,
+										10600
+									],
+									[
+										10706,
+										10711
+									],
+									[
+										13734,
+										13739
+									],
+									[
+										13984,
+										13989
+									],
+									[
+										15985,
+										15990
+									],
+									[
+										23743,
+										23748
+									],
+									[
+										24859,
+										24864
+									],
+									[
+										25281,
+										25286
+									],
+									[
+										31483,
+										31488
+									],
+									[
+										31546,
+										31551
+									],
+									[
+										31609,
+										31614
+									],
+									[
+										31672,
+										31677
+									],
+									[
+										32041,
+										32046
+									],
+									[
+										32810,
+										32815
+									],
+									[
+										33239,
+										33244
+									],
+									[
+										35542,
+										35547
+									],
+									[
+										35706,
+										35711
+									],
+									[
+										36454,
+										36459
+									],
+									[
+										37632,
+										37637
+									],
+									[
+										37774,
+										37779
+									],
+									[
+										39046,
+										39051
+									],
+									[
+										40321,
+										40326
+									],
+									[
+										40523,
+										40528
+									],
+									[
+										40599,
+										40604
+									],
+									[
+										40658,
+										40663
+									],
+									[
+										42514,
+										42519
+									],
+									[
+										42946,
+										42951
+									],
+									[
+										44181,
+										44186
+									],
+									[
+										46877,
+										46882
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										482,
+										482
+									],
+									[
+										6319,
+										6319
+									],
+									[
+										6395,
+										6395
+									],
+									[
+										6466,
+										6466
+									],
+									[
+										9762,
+										9762
+									],
+									[
+										9979,
+										9979
+									],
+									[
+										10559,
+										10559
+									],
+									[
+										10670,
+										10670
+									],
+									[
+										13655,
+										13655
+									],
+									[
+										13932,
+										13932
+									],
+									[
+										15923,
+										15923
+									],
+									[
+										23685,
+										23685
+									],
+									[
+										24795,
+										24795
+									],
+									[
+										25215,
+										25215
+									],
+									[
+										31441,
+										31441
+									],
+									[
+										31504,
+										31504
+									],
+									[
+										31567,
+										31567
+									],
+									[
+										31630,
+										31630
+									],
+									[
+										31999,
+										31999
+									],
+									[
+										32768,
+										32768
+									],
+									[
+										33184,
+										33184
+									],
+									[
+										35500,
+										35500
+									],
+									[
+										35664,
+										35664
+									],
+									[
+										36417,
+										36417
+									],
+									[
+										37590,
+										37590
+									],
+									[
+										37717,
+										37717
+									],
+									[
+										38988,
+										38988
+									],
+									[
+										40279,
+										40279
+									],
+									[
+										40466,
+										40466
+									],
+									[
+										40544,
+										40544
+									],
+									[
+										40621,
+										40621
+									],
+									[
+										42452,
+										42452
+									],
+									[
+										42904,
+										42904
+									],
+									[
+										44129,
+										44129
+									],
+									[
+										46840,
+										46840
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										833,
+										837
+									],
+									[
+										1224,
+										1228
+									],
+									[
+										1238,
+										1242
+									],
+									[
+										1600,
+										1604
+									]
+								],
+								"scope": "col_0000FFFF"
+							},
+							"col_0000FFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000FFFF_circle.png",
+								"regions":
+								[
+									[
+										832,
+										832
+									],
+									[
+										1219,
+										1219
+									],
+									[
+										1583,
+										1583
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_007BFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										842,
+										849
+									]
+								],
+								"scope": "col_007BFFFF"
+							},
+							"col_007BFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_007BFFFF_circle.png",
+								"regions":
+								[
+									[
+										832,
+										832
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_008000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1029,
+										1034
+									],
+									[
+										1406,
+										1411
+									],
+									[
+										1420,
+										1425
+									],
+									[
+										1668,
+										1673
+									]
+								],
+								"scope": "col_008000FF"
+							},
+							"col_008000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+								"regions":
+								[
+									[
+										1028,
+										1028
+									],
+									[
+										1401,
+										1401
+									],
+									[
+										1651,
+										1651
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_008080FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1057,
+										1061
+									],
+									[
+										1432,
+										1436
+									],
+									[
+										1446,
+										1450
+									]
+								],
+								"scope": "col_008080FF"
+							},
+							"col_008080FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_008080FF_circle.png",
+								"regions":
+								[
+									[
+										1056,
+										1056
+									],
+									[
+										1427,
+										1427
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00FFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1085,
+										1089
+									],
+									[
+										1457,
+										1461
+									],
+									[
+										1471,
+										1475
+									],
+									[
+										1701,
+										1705
+									]
+								],
+								"scope": "col_00FFFFFF"
+							},
+							"col_00FFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00FFFFFF_circle.png",
+								"regions":
+								[
+									[
+										1084,
+										1084
+									],
+									[
+										1452,
+										1452
+									],
+									[
+										1684,
+										1684
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_17A2B8FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1094,
+										1101
+									]
+								],
+								"scope": "col_17A2B8FF"
+							},
+							"col_17A2B8FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_17A2B8FF_circle.png",
+								"regions":
+								[
+									[
+										1084,
+										1084
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_20C997FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1066,
+										1073
+									]
+								],
+								"scope": "col_20C997FF"
+							},
+							"col_20C997FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_20C997FF_circle.png",
+								"regions":
+								[
+									[
+										1056,
+										1056
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_212529FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										464,
+										471
+									]
+								],
+								"scope": "col_212529FF"
+							},
+							"col_212529FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_212529FF_circle.png",
+								"regions":
+								[
+									[
+										453,
+										453
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28A745FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1038,
+										1045
+									]
+								],
+								"scope": "col_28A745FF"
+							},
+							"col_28A745FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28A745FF_circle.png",
+								"regions":
+								[
+									[
+										1028,
+										1028
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_343A40FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										435,
+										442
+									]
+								],
+								"scope": "col_343A40FF"
+							},
+							"col_343A40FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_343A40FF_circle.png",
+								"regions":
+								[
+									[
+										424,
+										424
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_495057FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										406,
+										413
+									]
+								],
+								"scope": "col_495057FF"
+							},
+							"col_495057FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_495057FF_circle.png",
+								"regions":
+								[
+									[
+										395,
+										395
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4B0082FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										861,
+										867
+									],
+									[
+										1249,
+										1255
+									],
+									[
+										1263,
+										1269
+									]
+								],
+								"scope": "col_4B0082FF"
+							},
+							"col_4B0082FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4B0082FF_circle.png",
+								"regions":
+								[
+									[
+										860,
+										860
+									],
+									[
+										1244,
+										1244
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6610F2FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										870,
+										877
+									]
+								],
+								"scope": "col_6610F2FF"
+							},
+							"col_6610F2FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6610F2FF_circle.png",
+								"regions":
+								[
+									[
+										860,
+										860
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6C757DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										377,
+										384
+									]
+								],
+								"scope": "col_6C757DFF"
+							},
+							"col_6C757DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6C757DFF_circle.png",
+								"regions":
+								[
+									[
+										366,
+										366
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6F42C1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										898,
+										905
+									]
+								],
+								"scope": "col_6F42C1FF"
+							},
+							"col_6F42C1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6F42C1FF_circle.png",
+								"regions":
+								[
+									[
+										888,
+										888
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_800080FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										889,
+										895
+									],
+									[
+										1276,
+										1282
+									],
+									[
+										1290,
+										1296
+									]
+								],
+								"scope": "col_800080FF"
+							},
+							"col_800080FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_800080FF_circle.png",
+								"regions":
+								[
+									[
+										888,
+										888
+									],
+									[
+										1271,
+										1271
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_808080FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1508,
+										1512
+									]
+								],
+								"scope": "col_808080FF"
+							},
+							"col_808080FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_808080FF_circle.png",
+								"regions":
+								[
+									[
+										1503,
+										1503
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ADB5BDFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										348,
+										355
+									]
+								],
+								"scope": "col_ADB5BDFF"
+							},
+							"col_ADB5BDFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ADB5BDFF_circle.png",
+								"regions":
+								[
+									[
+										337,
+										337
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CED4DAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										319,
+										326
+									]
+								],
+								"scope": "col_CED4DAFF"
+							},
+							"col_CED4DAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CED4DAFF_circle.png",
+								"regions":
+								[
+									[
+										308,
+										308
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DC3545FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										954,
+										961
+									]
+								],
+								"scope": "col_DC3545FF"
+							},
+							"col_DC3545FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DC3545FF_circle.png",
+								"regions":
+								[
+									[
+										944,
+										944
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DEE2E6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										290,
+										297
+									]
+								],
+								"scope": "col_DEE2E6FF"
+							},
+							"col_DEE2E6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DEE2E6FF_circle.png",
+								"regions":
+								[
+									[
+										279,
+										279
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E83E8CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										926,
+										933
+									]
+								],
+								"scope": "col_E83E8CFF"
+							},
+							"col_E83E8CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E83E8CFF_circle.png",
+								"regions":
+								[
+									[
+										916,
+										916
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E9ECEFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										261,
+										268
+									]
+								],
+								"scope": "col_E9ECEFFF"
+							},
+							"col_E9ECEFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E9ECEFFF_circle.png",
+								"regions":
+								[
+									[
+										250,
+										250
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F8F9FAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										232,
+										239
+									]
+								],
+								"scope": "col_F8F9FAFF"
+							},
+							"col_F8F9FAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F8F9FAFF_circle.png",
+								"regions":
+								[
+									[
+										221,
+										221
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCF8E3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										10190,
+										10197
+									]
+								],
+								"scope": "col_FCF8E3FF"
+							},
+							"col_FCF8E3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCF8E3FF_circle.png",
+								"regions":
+								[
+									[
+										10160,
+										10160
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FD7E14FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										982,
+										989
+									]
+								],
+								"scope": "col_FD7E14FF"
+							},
+							"col_FD7E14FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FD7E14FF_circle.png",
+								"regions":
+								[
+									[
+										972,
+										972
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF0000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										945,
+										948
+									],
+									[
+										1328,
+										1331
+									],
+									[
+										1342,
+										1345
+									],
+									[
+										1767,
+										1770
+									]
+								],
+								"scope": "col_FF0000FF"
+							},
+							"col_FF0000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_circle.png",
+								"regions":
+								[
+									[
+										944,
+										944
+									],
+									[
+										1323,
+										1323
+									],
+									[
+										1750,
+										1750
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFA500FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										973,
+										979
+									],
+									[
+										1352,
+										1358
+									],
+									[
+										1366,
+										1372
+									]
+								],
+								"scope": "col_FFA500FF"
+							},
+							"col_FFA500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFA500FF_circle.png",
+								"regions":
+								[
+									[
+										972,
+										972
+									],
+									[
+										1347,
+										1347
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFC0CBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										917,
+										921
+									],
+									[
+										1303,
+										1307
+									],
+									[
+										1317,
+										1321
+									],
+									[
+										47054,
+										47058
+									]
+								],
+								"scope": "col_FFC0CBFF"
+							},
+							"col_FFC0CBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFC0CBFF_circle.png",
+								"regions":
+								[
+									[
+										916,
+										916
+									],
+									[
+										1298,
+										1298
+									],
+									[
+										47017,
+										47017
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFC107FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1010,
+										1017
+									]
+								],
+								"scope": "col_FFC107FF"
+							},
+							"col_FFC107FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFC107FF_circle.png",
+								"regions":
+								[
+									[
+										1000,
+										1000
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFF00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1001,
+										1007
+									],
+									[
+										1379,
+										1385
+									],
+									[
+										1393,
+										1399
+									],
+									[
+										1733,
+										1739
+									]
+								],
+								"scope": "col_FFFF00FF"
+							},
+							"col_FFFF00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFF00FF_circle.png",
+								"regions":
+								[
+									[
+										1000,
+										1000
+									],
+									[
+										1374,
+										1374
+									],
+									[
+										1716,
+										1716
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										196,
+										201
+									],
+									[
+										206,
+										210
+									],
+									[
+										1482,
+										1487
+									],
+									[
+										1496,
+										1501
+									],
+									[
+										2667,
+										2672
+									],
+									[
+										4442,
+										4447
+									],
+									[
+										6569,
+										6574
+									],
+									[
+										11027,
+										11032
+									],
+									[
+										11129,
+										11134
+									],
+									[
+										11245,
+										11250
+									],
+									[
+										11369,
+										11374
+									],
+									[
+										13705,
+										13710
+									],
+									[
+										15652,
+										15657
+									],
+									[
+										30870,
+										30875
+									],
+									[
+										30933,
+										30938
+									],
+									[
+										30992,
+										30997
+									],
+									[
+										31050,
+										31055
+									],
+									[
+										31419,
+										31424
+									],
+									[
+										32752,
+										32757
+									],
+									[
+										34282,
+										34287
+									],
+									[
+										35014,
+										35019
+									],
+									[
+										35867,
+										35872
+									],
+									[
+										36401,
+										36406
+									],
+									[
+										37462,
+										37467
+									],
+									[
+										38799,
+										38804
+									],
+									[
+										39166,
+										39171
+									],
+									[
+										40263,
+										40268
+									],
+									[
+										42572,
+										42577
+									],
+									[
+										42888,
+										42893
+									],
+									[
+										44891,
+										44896
+									],
+									[
+										45368,
+										45373
+									],
+									[
+										45538,
+										45543
+									],
+									[
+										46938,
+										46943
+									],
+									[
+										47273,
+										47278
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										195,
+										195
+									],
+									[
+										1477,
+										1477
+									],
+									[
+										2638,
+										2638
+									],
+									[
+										4413,
+										4413
+									],
+									[
+										6538,
+										6538
+									],
+									[
+										10996,
+										10996
+									],
+									[
+										11093,
+										11093
+									],
+									[
+										11209,
+										11209
+									],
+									[
+										11338,
+										11338
+									],
+									[
+										13655,
+										13655
+									],
+									[
+										15611,
+										15611
+									],
+									[
+										30828,
+										30828
+									],
+									[
+										30891,
+										30891
+									],
+									[
+										30955,
+										30955
+									],
+									[
+										31008,
+										31008
+									],
+									[
+										31377,
+										31377
+									],
+									[
+										32715,
+										32715
+									],
+									[
+										34245,
+										34245
+									],
+									[
+										34977,
+										34977
+									],
+									[
+										35830,
+										35830
+									],
+									[
+										36364,
+										36364
+									],
+									[
+										37425,
+										37425
+									],
+									[
+										38757,
+										38757
+									],
+									[
+										39124,
+										39124
+									],
+									[
+										40226,
+										40226
+									],
+									[
+										42535,
+										42535
+									],
+									[
+										42851,
+										42851
+									],
+									[
+										44853,
+										44853
+									],
+									[
+										45330,
+										45330
+									],
+									[
+										45500,
+										45500
+									],
+									[
+										46893,
+										46893
+									],
+									[
+										47236,
+										47236
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 41.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "PLECLEF.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

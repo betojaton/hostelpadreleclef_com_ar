@@ -1,0 +1,356 @@
+//COLORES
+$primary-light: #F05959;
+$primary: #B71312;
+$primary-dark: #480000;
+$secondary-light:#FFF7EF;
+$secondary: #DECFC1;
+$secondary-dark: #9D8269;
+$card-bg:  $secondary;
+$body-bg: $primary-dark; 
+$body-color: #111;
+
+$border-radius:  .3rem;
+$line-height: 160%;
+
+$card-border-width: 0;
+
+.bg-primary-dark { background-color: $primary-dark; }
+.bg-secondary-dark { background-color: $secondary-dark; }
+
+//TIPOGRAFIAS
+$font-family-sans-serif:'Raleway', sans-serif;
+$headings-font-family: 'Vidaloka', serif;
+$headings-color: $primary;
+
+/* $line-height-base: ; */
+
+html {
+	/* scroll-behavior: smooth;*/
+} 
+
+body { 
+	height: 100%;
+	position: relative; 
+}
+//PRELOADER
+#preload {
+	z-index: 9999;
+}
+#porcentajeCarga {
+	top: 52%;
+}
+#lineaCarga {
+	height: 2px;
+	top: 50%;
+	left: 0%;
+}
+#rellenoCarga {
+	top: 0;
+	left: 0;
+	height: 2px;
+	width: 0%;
+}
+#estadoCarga {
+	background: url(../img/loader.gif);
+	top: 45%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+/*==============================
+=            HEADER            =
+==============================*/
+header {
+	& .navbar-brand {
+		max-height: 66px;
+		overflow: visible !important;
+		/* margin-top: -98px; */
+	}
+	& #navbarTop {
+		z-index: 999;
+		font-family: 'Vidaloka', serif;
+
+		& .nav-link.active, & .nav-link:hover {
+			color: $secondary;
+		}
+	}
+}
+.topbar-info {
+	background-color: $secondary; 
+	color: $secondary-dark;
+	& .btn-link {
+		color: $secondary-dark;
+	}
+}
+/*=====  End of HEADER  ======*/
+
+/*================================
+=            SECTIONS            =
+================================*/
+section {
+	& h2 {
+		letter-spacing: 3px;
+		text-transform: uppercase;
+	}
+	& .card {
+		overflow: hidden;
+		& img {
+			filter: grayscale(1);
+		}
+	}
+}
+
+//HABITACIONES
+.habitaciones .card {
+	height: 276px;
+	position: relative;
+	
+	& .card-body {
+		-webkit-transform: translateY(0px);
+		-moz-transform: translateY(0px);
+		-o-transform: translateY(0px);
+		-ms-transform: translateY(0px);
+		transform: translateY(0px);
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		-ms-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	}
+	&:hover .card-body {
+		-webkit-transform: translateY(0px);
+		-moz-transform: translateY(0px);
+		-o-transform: translateY(0px);
+		-ms-transform: translateY(0px);
+		transform: translateY(-283px);
+		
+	}
+	& img {
+		filter: grayscale(0);
+	}
+
+	&:hover img {
+		-webkit-transform: translateY(-293px);
+		-moz-transform: translateY(-293px);
+		-o-transform: translateY(-293px);
+		-ms-transform: translateY(-293px);
+		transform: translateY(-293px);
+
+	}
+}
+
+//TESTIMONIAL
+.carousel-control {
+	position: absolute;
+	background-color: $primary;
+	/* top: 85% !important; */
+	height: 32px;
+	width: 32px !important;
+	&.carousel-control-prev {
+		left: 93% !important;
+	}
+}
+.rounded-circle {
+	border: 4px solid $primary;
+	border-radius: 50%;
+	padding: 30px 2px;
+	& .iconify {
+		height: 64px;
+		width: auto;
+		color: $primary;
+	}
+}
+
+//NOSOTROS
+.nosotros  {
+	& .foto-leclef  {
+		-webkit-transition: all 0.9s ease-in-out;
+		-moz-transition: all 0.9s ease-in-out;
+		-o-transition: all 0.9s ease-in-out;
+		-ms-transition: all 0.9s ease-in-out;
+		transition: all 0.9s ease-in-out;
+		filter: grayscale(1);
+
+		& blockquote {
+			text-shadow: 1px 1px 2px #000;
+		}
+		&:hover {
+			filter: grayscale(0);
+		}
+	}
+}
+ //FOTOGALERIA
+ .fotogaleria {
+ 	& .card {
+ 		& img {
+ 			-webkit-transition: all 0.9s ease-in-out;
+ 			-moz-transition: all 0.9s ease-in-out;
+ 			-o-transition: all 0.9s ease-in-out;
+ 			-ms-transition: all 0.9s ease-in-out;
+ 			transition: all 0.9s ease-in-out;
+ 			filter: grayscale(1);
+ 		}
+ 		&:hover img {
+ 			filter: grayscale(0);
+ 		}
+ 	}
+ }
+ 
+
+
+ /*=====  End of SECTIONS  ======*/
+
+
+
+//CAROUSEL
+
+/* MISC */
+.tongue {
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	z-index: 1;
+	transform: rotate(180deg) translateX(50%);
+	width: 138px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+	color: #4a5568;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-image: url(img/tongue.svg);
+	& i {
+		animation: floating-sm 2s ease infinite;
+	}
+	&:hover i {
+		animation-play-state: paused; 
+	}
+	&.tongue-bottom {
+		top: auto;
+		bottom: -1px;
+		transform: translateX(-50%);
+	}
+}
+@keyframes floating-sm {
+	0% {
+		transform: translateY(0px); 
+	}
+	50% {
+		transform: translateY(5px); 
+	}
+	100% {
+		transform: translateY(0px); 
+	} 
+}
+
+
+.bg-overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	&:before {
+		content: '';
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background-color: $primary-dark;
+		opacity: .30;
+		z-index: 9;
+	}
+}
+.fa-facebook { color: #3b5998; 
+	background-color: #fff;
+	border-radius: 50%;
+}
+.iconify {
+	color: $primary;
+	font-size: 32px;
+}
+svg.icon {
+	filter: grayscale(1);
+	height: 48px;
+	width: 48px;
+}
+.serv-icon {
+	/* margin: 0 1rem 0 2rem; */
+
+	& .glyph {
+		border-radius: 50%;
+		border: 2px solid $primary;
+		transition: all 0.2s ease;
+		height: 90px;
+		width: 90px;
+		margin-bottom: 2rem;
+		&:hover {
+			background-color: $primary;
+		}
+		& svg.icon {
+			border-radius: 50%;
+			padding: 0.5rem;
+			width: 90px;
+			height: 90px;
+			transition: all 0.3s ease;
+			&:hover {
+				-webkit-transform: scale(1.1);
+				-moz-transform: scale(1.1);
+				-ms-transform: scale(1.1);
+				transform: scale(1.1);
+				filter: grayscale(0);
+			}
+		}
+	}
+	& h5 {
+		text-align: left;
+		align-self: center !important;
+		margin-left: 1rem;
+		border-bottom: 1px solid $primary;
+		transition: all 0.3s ease;
+		&:hover {
+			-webkit-transform: scale(0.93);
+			-moz-transform: scale(0.93);
+			-ms-transform: scale(0.93);
+			transform: scale(0.93);
+		}
+	}
+}
+.serv-optativos .serv-icon .glyph {
+	height: 62px;
+	width: 62px;
+	margin-bottom: 2rem;
+	&:hover {
+		background-color: $primary;
+	}
+	& svg.icon {
+		width: 62px;
+		height: 62px;
+	}
+
+}
+
+
+/*=====================================
+=            MEDIAS QUERIS            =
+=====================================*/
+@media (max-width: 1024px) {
+	.navbar-brand img {	max-height: 120px;}
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.habitaciones .card {
+		height: 218px;
+	}
+}
+
+/*=====  End of MEDIAS QUERIS  ======*/
+
+
+// Include all of Bootstrap
+@import "../bootstrap/scss/bootstrap";
+@import "../css/ken-burns.css";
